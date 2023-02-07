@@ -6,7 +6,7 @@
     border-radius: 10px;
     margin-bottom: 20px;
     position: relative;
-    /* display: none; */
+    display: none;
 }
 
 #box-1 {
@@ -63,4 +63,8 @@
     border-radius: 5px;
     font-size: 15px;
     font-weight: bold;
+}
+
+.show {
+    display: block;
 }
